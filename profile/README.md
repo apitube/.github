@@ -1,3 +1,3 @@
-# APITUBE - A growing source of data from websites
+# APITUBE - The news API is available free of charge for integration into your products.
 
-[Check our datasets](https://github.com/apitube/datasets) AND look at [our integrations in different programming languages](https://github.com/apitube/integrations)
+Look at [our integrations in different programming languages](https://github.com/apitube/integrations)
